@@ -1,2 +1,2 @@
 # daino
-daino maze
+daino maze using (AI) A* search algorithm 
